@@ -1,0 +1,52 @@
+# Spring Boot REST API Example
+
+## 📌 Overview
+This project is a simple REST API built with Spring Boot.  
+It demonstrates how to create, read, update, and delete (CRUD) resources using RESTful endpoints.
+
+## 🚀 Features
+- Spring Boot framework
+- RESTful API endpoints
+- In-memory H2 database
+- Swagger UI for API documentation
+- Maven build system
+
+## ⚙️ Technologies Used
+- Java 17+
+- Spring Boot
+- H2 Database
+- Maven
+
+## ▶️ How to Run
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/<Shru235>/springboot-rest-api.git
+
+
+---
+
+## 🤖 README Template for AI Project (Java + ML)
+
+```markdown
+# Java AI Project - Sentiment Analysis
+
+## 📌 Overview
+This project demonstrates a simple AI application in Java using machine learning.  
+It performs sentiment analysis on text data (positive/negative classification).
+
+## 🚀 Features
+- Java-based AI project
+- Uses Deeplearning4j library
+- Pre-trained models for sentiment analysis
+- Example dataset included
+
+## ⚙️ Technologies Used
+- Java 17+
+- Deeplearning4j
+- Maven
+
+## ▶️ How to Run
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/<Shru235>/java-ai-project.git
+
